@@ -1,2 +1,2 @@
 # ml-course
-Machile learning course
+Machine learning course
